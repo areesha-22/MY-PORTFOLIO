@@ -16,10 +16,10 @@ const Container3 = () => {
             width={500}
             height={200}
           /></div>
-    <p className='font-Inter font-normal text-white text-lg pt-6 leading-7'>Use the web clipper extension, available on Chrome and Firefox, to save web pages <br></br> or take screenshots as notes.
+    <p className='font-Inter font-normal text-white text-lg pt-6 leading-7'>Use the web clipper extension&lsquo; available on Chrome and Firefox&lsquo; to save web pages <br></br> or take screenshots as notes.
 </p>
 <div className='pt-12 pb-5  gap-3'>
-<button className='text-white bg-[#4F9CF9] font-Inter font-medium text-lg leading-6 rounded-md w-44 h-16 items-center justify-center gap-2 flex'>Let's Go <FaArrowRight /></button></div>
+<button className='text-white bg-[#4F9CF9] font-Inter font-medium text-lg leading-6 rounded-md w-44 h-16 items-center justify-center gap-2 flex'>Let&apos;s Go <FaArrowRight /></button></div>
 </div>
 
 <div className="flex-1">

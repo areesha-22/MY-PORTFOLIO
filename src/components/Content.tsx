@@ -14,14 +14,14 @@ const Contentbar = () => {
    /> 
     
 </div>
-    <div className='bg-[#043873] flex gap-1 justify-center  items-center  w-[1440px] h-[656px]'>
+    <div className='bg-[#043873] flex  justify-center  items-center  w-[1440px] h-[656px]'>
       
       <div  className="flex flex-col flex-1" >
        <div className='pl-8'>
         <h2 className='text-white font-bold text-6xl font-Inter'>GET MORE DONE WITH WHITEPACE</h2>
      
       <p className='font-Inter pt-10  text-white  text-lg'>
-      Project management software that enables your teams to collaborate,   plan,    analyze and manage everyday tasks
+      Project management software that enables your teams to collaborate&lsquo; plan&lsquo; analyze and manage everyday tasks
       </p>   <div className='pt-5 gap-2'>
       <button className='w-56 h-16 rounded-lg bg-[#4F9CF9] text-white items-center justify-center gap-2 flex '>Try Whitepace Free <FaArrowRight /></button></div></div>
       </div>

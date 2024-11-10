@@ -23,10 +23,10 @@ const Container4 = () => {
             width={500}
             height={200}
           /></div>
-           <p className='font-inter leading-7 font-normal text-lg'>Customise the app with plugins, custom themes and multiple text editors (Rich  Text or Markdown). Or create your own scripts and plugins using the Extension API.
+           <p className='font-inter leading-7 font-normal text-lg'>Customise the app with plugins&lsquo; custom themes and multiple text editors (Rich  Text or Markdown). Or create your own scripts and plugins using the Extension API.
 </p>
 <div className='gap-3 pt-5 pb-5'>
-<button className='w-44 h-16 bg-[#4F9CF9] font-medium text-lg text-white  rounded-lg items-center justify-center gap-2 flex'>Let's Go <FaArrowRight /></button></div>
+<button className='w-44 h-16 bg-[#4F9CF9] font-medium text-lg text-white  rounded-lg items-center justify-center gap-2 flex'>Let&apos;s Go <FaArrowRight /></button></div>
          
           </div></div>
            

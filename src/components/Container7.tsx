@@ -16,7 +16,7 @@ const Container7 = () => {
           /> 
            </div>
              
-<p className='font-Inter font-normal text-lg pt-9 leading-7'>The app is open source and your notes are saved to an open format, so you'll always <br></br> have access to them. Uses End-To-End Encryption (E2EE) to secure your notes and ensure no-one but yourself can access them.</p>
+<p className='font-Inter font-normal text-lg pt-9 leading-7'>The app is open source and your notes are saved to an open format so you&apos;ll always <br></br> have access to them. Uses End-To-End Encryption (E2EE) to secure your notes and ensure no-one but yourself can access them.</p>
         <div className='pt-12 pb-5 '>
             <button className='w-48 h-16 rounded-lg bg-[#4F9CF9]  font-medium text-lg text-white leading-6 items-center justify-center gap-2 flex  '>Read More <FaArrowRight /></button> </div>
        

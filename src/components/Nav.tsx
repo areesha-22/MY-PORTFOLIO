@@ -25,7 +25,7 @@ export default function Bar () {
       </div>
      <div className="flex gap-80 overflow-hidden  ">
      <div className="flex ">
-            <div className= "text-[#37AFE1] absolute  lg:left-96 lg:bottom-60 sm:right-14 ">
+            <div className= "text-[#37AFE1] absolute  left-96 bottom-60  ">
                 <div >
                 <span className="font-bold pb-14 text-5xl">  <span className="text-white">Hi IT&apos;S ME </span><br></br> AREESHA </span><br></br><span className="font-extrabold text-5xl" >WEB DEVELOPER</span></div>
                 <div className="btn-box mt-11">

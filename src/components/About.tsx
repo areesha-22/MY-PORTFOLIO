@@ -8,7 +8,7 @@ const About = () => {
                  
 
               <div className='font-sans font-extrabold text-center text-white text-6xl 'data-aos="fade-left" id='about'>ABOUT ME</div>
-              <div className='relative lg:left-96 lg:ml-36  sm:left-24 '>
+              <div className='relative left-96 ml-36   '>
                 <Image src="/areesha.png"
                 height={400}
                 width={400} 
